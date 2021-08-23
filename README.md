@@ -45,4 +45,4 @@ Se precisar de mais informações, veja a documentação da Steam Web API e Inte
 
 ## Anotações
 Usar o headers para saber o usuário que está pedindo informação
-
+const { username } = request.headers;
